@@ -1,0 +1,13 @@
+D:\OneDrive\Desktop\vp project\Visual_Programming_Project\Visual_Programming_Project\bin\Debug\Visual_Programming_Project.exe.config
+D:\OneDrive\Desktop\vp project\Visual_Programming_Project\Visual_Programming_Project\bin\Debug\Visual_Programming_Project.exe
+D:\OneDrive\Desktop\vp project\Visual_Programming_Project\Visual_Programming_Project\bin\Debug\Visual_Programming_Project.pdb
+D:\OneDrive\Desktop\vp project\Visual_Programming_Project\Visual_Programming_Project\obj\Debug\Visual_Programming_Project.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\vp project\Visual_Programming_Project\Visual_Programming_Project\obj\Debug\Visual_Programming_Project.LoginForm.resources
+D:\OneDrive\Desktop\vp project\Visual_Programming_Project\Visual_Programming_Project\obj\Debug\Visual_Programming_Project.MainMenuForm.resources
+D:\OneDrive\Desktop\vp project\Visual_Programming_Project\Visual_Programming_Project\obj\Debug\Visual_Programming_Project.StudentForm.resources
+D:\OneDrive\Desktop\vp project\Visual_Programming_Project\Visual_Programming_Project\obj\Debug\Visual_Programming_Project.ViewStudentsForm.resources
+D:\OneDrive\Desktop\vp project\Visual_Programming_Project\Visual_Programming_Project\obj\Debug\Visual_Programming_Project.Properties.Resources.resources
+D:\OneDrive\Desktop\vp project\Visual_Programming_Project\Visual_Programming_Project\obj\Debug\Visual_Programming_Project.csproj.GenerateResource.cache
+D:\OneDrive\Desktop\vp project\Visual_Programming_Project\Visual_Programming_Project\obj\Debug\Visual_Programming_Project.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\vp project\Visual_Programming_Project\Visual_Programming_Project\obj\Debug\Visual_Programming_Project.exe
+D:\OneDrive\Desktop\vp project\Visual_Programming_Project\Visual_Programming_Project\obj\Debug\Visual_Programming_Project.pdb
